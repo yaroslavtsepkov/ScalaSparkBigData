@@ -4,7 +4,7 @@
 		module="scalasparkbigdata$sources_2.12"
 		revision="0.1"
 		status="integration"
-		publication="20210125023957"
+		publication="20210125031540"
 	/>
 	<configurations>
 		<conf name="compile" visibility="public" description=""/>
